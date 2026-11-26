@@ -1,0 +1,7 @@
+*
+!.gitignore
+!README.md
+!pictures.tsv
+!*.jpg
+!*.png
+!*.webp
